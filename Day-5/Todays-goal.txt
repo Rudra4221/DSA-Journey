@@ -1,0 +1,9 @@
+13/10/2025
+
+
+-Subarrays
+-Optimised way
+-Kadane's Algorithm
+
+-Trapping Water
+-Best time to buy and sell stock
